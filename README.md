@@ -34,7 +34,7 @@ The dataset includes 9,994 orders from 2014–2017, with details such as:
 
 Order ID, Order Date, Ship Mode, Segment, Region, Category, Sub-Category, Sales, Profit, Discount, Delivery Days
 
-[Download Dataset]
+[Download Dataset]https://github.com/NasiraShaik/Sales_Report_XYZ_Corp_Using_Excel/blob/main/179.%20Sales%20Report%20FY%202014-17.xlsx
 
 ---
 
@@ -75,7 +75,7 @@ The Excel dashboard includes:
 - **KPI Cards:** Total Orders, Total Sales, Total Profit, Avg Delivery Days, Profit Margin, Avg Discount
 - **Interactive Pivot Charts:** Sales by Sub-Category, Sales by Region, Category-wise Sales & Profit, Profit % by Segment, Monthly Sales Trend
 - **Slicers:** Year, Ship Mode, Segment, Region
-![Dashboard Screenshot]
+[Dashboard Screenshot]
 
 ---
 
