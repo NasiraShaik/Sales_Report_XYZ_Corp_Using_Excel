@@ -75,7 +75,7 @@ The Excel dashboard includes:
 - **KPI Cards:** Total Orders, Total Sales, Total Profit, Avg Delivery Days, Profit Margin, Avg Discount
 - **Interactive Pivot Charts:** Sales by Sub-Category, Sales by Region, Category-wise Sales & Profit, Profit % by Segment, Monthly Sales Trend
 - **Slicers:** Year, Ship Mode, Segment, Region
-[Dashboard Screenshot]
+[Dashboard Screenshot]https://github.com/NasiraShaik/Sales_Report_XYZ_Corp_Using_Excel/blob/main/Screenshot%20(128).png
 
 ---
 
